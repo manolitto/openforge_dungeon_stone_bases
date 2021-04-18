@@ -3,6 +3,8 @@ OpenForge 2.0 Dungeon Stone Separate Wall Bases with stone sides
 
 Separate wall tiles for OpenForge external Dungeon Stone walls.
 
+   ![Sample](img/sample.jpg)  
+
 
 Printing Notes
 --------------
