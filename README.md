@@ -45,6 +45,11 @@ https://www.thingiverse.com/thing:2787903
 
 ## Version History
 
+#### 2021-04-18 v1.3.0
+
+  - added A.triplex base variants
+  - added A.triplex 7mm base
+
 #### 2021-04-18 v1.2.0
 
   - added A.triplex base
