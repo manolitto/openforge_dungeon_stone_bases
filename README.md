@@ -12,7 +12,7 @@ Separate wall tiles for OpenForge external Dungeon Stone walls.
 
    ![6mm base](img/dungeon_stone_base.inch.A.triplex.png)  
 
-- 7mm bases: with your slicer software cut 1mm from the bottom of your OpenForge 2.0 dungoen stone wall - this removes the plain area on the bottom of the wall
+- 7mm bases: with your slicer software cut 1 mm from the bottom of your OpenForge 2.0 dungoen stone wall - this removes the plain area on the bottom of the wall
 
    ![7mm base](img/7mm-bases.png)  
 
