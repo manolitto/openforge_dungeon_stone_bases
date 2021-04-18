@@ -9,8 +9,12 @@ Separate wall tiles for OpenForge external Dungeon Stone walls.
 ## Variants
 
 - Standard 6mm OpenForge bases: simply use instead of the corresponding OpenForge plain base
+
+   ![6mm base](img/dungeon_stone_base.inch.A.triplex.png)  
+
 - 7mm bases: with your slicer software cut 1mm from the bottom of your OpenForge wall - this removes the plain area on the bottom of the wall
 
+   ![7mm base](img/7mm-bases.png)  
 
 ## Printing Notes
 
