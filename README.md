@@ -1,5 +1,5 @@
-OpenForge 2.0 Dungeon Stone Separate Wall Bases with stone sides
-----------------------------------------------------------------
+OpenForge 2.0 Community Dungeon Stone Separate Wall Bases
+=========================================================
 
 Separate wall tiles for OpenForge external Dungeon Stone walls.
 
@@ -12,7 +12,7 @@ Separate wall tiles for OpenForge external Dungeon Stone walls.
 
    ![6mm base](img/dungeon_stone_base.inch.A.triplex.png)  
 
-- 7mm bases: with your slicer software cut 1mm from the bottom of your OpenForge 2.0 dungoen stone wall - this removes the plain area on the bottom of the wall
+- 7mm bases: with your slicer software cut 1 mm from the bottom of your OpenForge 2.0 dungoen stone wall - this removes the plain area on the bottom of the wall
 
    ![7mm base](img/7mm-bases.png)  
 
@@ -44,6 +44,11 @@ https://www.thingiverse.com/thing:2787903
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenVLex 2</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Version History
+
+#### 2021-04-18 v1.3.0
+
+  - added A.triplex base variants
+  - added A.triplex 7mm base
 
 #### 2021-04-18 v1.2.0
 
