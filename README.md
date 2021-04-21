@@ -5,16 +5,20 @@ Separate wall tiles for OpenForge external Dungeon Stone walls.
 
    ![Sample](img/sample.jpg)  
 
+   ![triplex A base](img/dungeon_stone_base.inch.A.triplex.png)  
 
-## Variants
+## Seamless Wall Hint
 
-- Standard 6mm OpenForge bases: simply use instead of the corresponding OpenForge plain base
+If you want to have a seamless separate wall without the plain seam between the base and the wall you can prepare your OpenForge wall like so:
 
-   ![6mm base](img/dungeon_stone_base.inch.A.triplex.png)  
+1. cut the bottom 1 mm from the wall with your slicer
 
-- 7mm bases: with your slicer software cut 1 mm from the bottom of your OpenForge 2.0 dungoen stone wall - this removes the plain area on the bottom of the wall
+   ![Sample](img/scale1.png)  
 
-   ![7mm base](img/7mm-bases.png)  
+2. scale the z size (i.e. the height) of your wall and make it 1 mm higher
+
+   ![Sample](img/scale2.png)  
+
 
 
 ## Printing Notes
@@ -45,10 +49,13 @@ https://www.thingiverse.com/thing:2787903
 
 ## Version History
 
+#### 2021-04-21 v1.4.0
+
+  - added D.triplex base variants
+
 #### 2021-04-18 v1.3.0
 
   - added A.triplex base variants
-  - added A.triplex 7mm base
 
 #### 2021-04-18 v1.2.0
 
